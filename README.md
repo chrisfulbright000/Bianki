@@ -1,19 +1,19 @@
-# RDP Windows Gratis 6 Jam
+# Windows RDP  Free 6 Hours
 
-Buat RDP Windows Ram 7GB 2 Core Cpu Dengan Github:
-+ Tekan Tombol Fork untuk membuat RDP (Bagi Pengguna Android/HP Disilahkan Pake Mode Desktop).
-+ Kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN
-+ Di Dalam Repo ini Pergi ke Settings> Secrets> New repository secret
-+ Isi Nama: Masukan NGROK_AUTH_TOKEN
-+ Isi Value: Kunjungi https://dashboard.ngrok.com/auth/your-authtoken Copy Dan Paste di dalam Value
-+ Tekan Add secret
-+ Pergi Ke Action> CI> Run workflow
-+ Refresh Web dan masuk ke CI> build
-+ Tekan Tombol panah menghadap ke bawah "RDP INFO LOGIN" Untuk Mendapatkan IP, User, Password.
-+ Login Ke RDP.
-+ Tunggu Beberapa Menit.
-+ Tekan Agree.
-+ Selamat Anda Mendapatkan FreeRDP 6 Jam!
+Create RDP Windows Ram 7GB 2 Core Cpu With Github:
++ Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
++ Please visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
++ Inside this Repo Go to Settings> Secrets> New repository secret
++ Fill in the name: Masukan NGROK_AUTH_TOKEN
++ Fill in Value: Visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste in Value
++ Press Add secret
++ Go to Action> CI> Run workflow
++ Refresh the Web and go to CI> build
++ Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
++ Login to RDP.
++ Wait for a few minutes.
++ Press Agree.
++ Congratulations You Get 6 Hours of FreeRDP!
 
 Kang Recode Script:
 + https://github.com/bangjackcreator/MBAHGADGET
